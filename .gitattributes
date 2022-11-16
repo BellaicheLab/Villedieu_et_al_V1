@@ -1,0 +1,4 @@
+BasalNetworkFibersOrientation/Data/** filter=lfs diff=lfs merge=lfs -text
+NeckDeepeningQuantification/Data/** filter=lfs diff=lfs merge=lfs -text
+ProjectionApicalBasalSurface/Data/** filter=lfs diff=lfs merge=lfs -text
+RecoilVelocityWtAndMutants/Data/** filter=lfs diff=lfs merge=lfs -text
